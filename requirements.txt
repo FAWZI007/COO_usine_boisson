@@ -1,0 +1,11 @@
+# Dépendances pour le projet COO_usine_boisson
+# Ce projet utilise uniquement les modules standards de Python
+# Aucune dépendance externe n'est requise
+
+# Version Python recommandée: 3.7+
+# Les modules utilisés:
+# - abc (Abstract Base Classes)
+# - typing (Type hints)
+# - datetime (Gestion des dates)
+# - uuid (Génération d'identifiants uniques)
+# - unittest (Tests unitaires)
